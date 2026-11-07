@@ -38,3 +38,4 @@ Each subfolder is an independent Unity project containing all necessary `Assets`
 3. Click **Add project from disk**.
 4. Browse to and select any of the subfolders (e.g. `UnityProject/Hostel Damned`).
 5. Select the matching Unity Editor version and launch. Unity will regenerate the required `Library/` files automatically.
+
